@@ -9,12 +9,12 @@ class Program
         decimal definirPrecoPorHora = 0;
         int resposta;
 
-        Console.WriteLine("Define o preço inicial a ser pago: ");
+        Console.WriteLine("Defina o preço inicial a ser pago: ");
         definirPrecoInicial = Convert.ToDecimal(Console.ReadLine());
 
         Console.WriteLine();
 
-        Console.WriteLine("Define o preço a ser pago por hora: ");
+        Console.WriteLine("Defina o preço a ser pago por hora: ");
         definirPrecoPorHora = Convert.ToDecimal(Console.ReadLine());
 
         Console.WriteLine();
