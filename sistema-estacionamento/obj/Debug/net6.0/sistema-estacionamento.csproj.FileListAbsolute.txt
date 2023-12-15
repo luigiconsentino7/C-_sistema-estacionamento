@@ -1,0 +1,14 @@
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\sistema-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\sistema-estacionamento.AssemblyInfoInputs.cache
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\sistema-estacionamento.AssemblyInfo.cs
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\sistema-estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\bin\Debug\net6.0\sistema-estacionamento.exe
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\bin\Debug\net6.0\sistema-estacionamento.deps.json
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\bin\Debug\net6.0\sistema-estacionamento.runtimeconfig.json
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\bin\Debug\net6.0\sistema-estacionamento.dll
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\bin\Debug\net6.0\sistema-estacionamento.pdb
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\sistema-estacionamento.dll
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\refint\sistema-estacionamento.dll
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\sistema-estacionamento.pdb
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\sistema-estacionamento.genruntimeconfig.cache
+C:\Users\luigi\source\repos\sistema-estacionamento\sistema-estacionamento\obj\Debug\net6.0\ref\sistema-estacionamento.dll
